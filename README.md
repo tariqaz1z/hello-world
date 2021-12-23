@@ -1,2 +1,2 @@
 # hello-world
-Sample description
+Sample description and something about myself.
